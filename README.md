@@ -134,8 +134,7 @@ GS-Cyber/
     ├── checklist-conformidade.md    ← mapa requisito → evidência → pontuação
     ├── campanha-phishing/
     │   └── README.md                ← ataque OSINT→Phishing + campanha de conscientização
-    ├── apresentacao/
-    │   ├── roteiro-pitch.md         ← roteiro cronometrado para vídeo de 5 min
+    ├── apresentacao
     │   ├── slides.md
     │   └── img/                     ← figuras geradas (distribuição, features, mapa)
     ├── spec/
@@ -191,8 +190,18 @@ Conteúdo em [`docs/campanha-phishing/README.md`](docs/campanha-phishing/README.
 | Documento Técnico | [`docs/documento-tecnico.md`](docs/documento-tecnico.md) | Justificativa de cada controle de segurança |
 | Checklist de Conformidade | [`docs/checklist-conformidade.md`](docs/checklist-conformidade.md) | Mapa requisito → evidência → critério de avaliação |
 | Campanha Anti-Phishing | [`docs/campanha-phishing/README.md`](docs/campanha-phishing/README.md) | Ataque completo + conscientização (Req #4) |
-| Roteiro do Pitch | [`docs/apresentacao/roteiro-pitch.md`](docs/apresentacao/roteiro-pitch.md) | Vídeo de até 5 min (cronometrado por seção) |
 | Enunciado | [`GS.md`](GS.md) / [`GS.pdf`](GS.pdf) | Desafio original |
+
+---
+
+## Integrantes
+
+| Nome completo | RM |
+|---|:---:|
+| Guilherme Orugian | 572882 |
+| Rodrigo Bettio | 573725 |
+| Rafael Jun Aita Hirata | 569708 |
+
 
 ---
 
