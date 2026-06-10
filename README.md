@@ -1,17 +1,20 @@
 # SentinelIA — Inteligência Espacial Cognitiva + Cibersegurança
 
-> **Global Solution 2026.1 — Cognitive Cybersecurity**
-> Disciplina: Cybersecurity | Curso: Tecnólogo em IA — 1TIAPZ-2026
-> Tema: *Soluções Cognitivas para a Nova Economia Espacial*
+---
+
+## Integrantes
+
+| Nome completo | RM |
+|---|:---:|
+| Guilherme Orugian | 572882 |
+| Rodrigo Bettio | 573725 |
+| Rafael Jun Aita Hirata | 569708 |
 
 ---
 
-## Para o Professor — Guia de Avaliação
-
-Este repositório contém a entrega completa do desafio Global Solution 2026.1.
-A plataforma **SentinelIA** ingere **dados espaciais de focos de calor** (queimadas/desmatamento — padrão NASA FIRMS/INPE), classifica o **risco** com IA e oferece um **copiloto cognitivo** que gera *briefings* de decisão automatizada.
-
-Toda a solução foi construída com foco em **cibersegurança**: cada requisito do enunciado é implementado como código funcional e coberto por testes automatizados.
+> **Global Solution 2026.1 — Cognitive Cybersecurity**
+> Disciplina: Cybersecurity | Curso: Tecnólogo em IA — 1TIAPZ-2026
+> Tema: *Soluções Cognitivas para a Nova Economia Espacial*
 
 ---
 
@@ -191,17 +194,6 @@ Conteúdo em [`docs/campanha-phishing/README.md`](docs/campanha-phishing/README.
 | Checklist de Conformidade | [`docs/checklist-conformidade.md`](docs/checklist-conformidade.md) | Mapa requisito → evidência → critério de avaliação |
 | Campanha Anti-Phishing | [`docs/campanha-phishing/README.md`](docs/campanha-phishing/README.md) | Ataque completo + conscientização (Req #4) |
 | Enunciado | [`GS.md`](GS.md) / [`GS.pdf`](GS.pdf) | Desafio original |
-
----
-
-## Integrantes
-
-| Nome completo | RM |
-|---|:---:|
-| Guilherme Orugian | 572882 |
-| Rodrigo Bettio | 573725 |
-| Rafael Jun Aita Hirata | 569708 |
-
 
 ---
 
