@@ -196,8 +196,16 @@ Conteúdo em [`docs/campanha-phishing/README.md`](docs/campanha-phishing/README.
 | Enunciado | [`GS.md`](GS.md) / [`GS.pdf`](GS.pdf) | Desafio original |
 
 ---
+## User Interface
 
-## Notas Técnicas (Honestidade Acadêmica)
+<img width="2508" height="923" alt="SentinelAI-5" src="https://github.com/user-attachments/assets/766d9f5e-9341-4e19-834e-7c0ae6912073" />
+<img width="1608" height="925" alt="SentinelAI-4" src="https://github.com/user-attachments/assets/dae640db-2998-49f7-b87d-28d5341b2bb8" />
+<img width="1672" height="925" alt="SentinelAI-1" src="https://github.com/user-attachments/assets/12b0c43c-b6f7-44dd-8cf6-a0b98960481d" />
+
+
+---
+
+## Notas Técnicas 
 
 - O certificado X.509 é **auto-assinado** (válido para demonstração; em produção, emitido por CA confiável como Let's Encrypt ou PKI corporativa).
 - As senhas de demo estão em texto claro apenas para fins de avaliação — em produção, usaria **Argon2/bcrypt** e segredos em cofre (Vault, AWS Secrets Manager).
