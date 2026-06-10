@@ -1,0 +1,15 @@
+# SentinelIA — dependencias
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+numpy
+streamlit
+pydeck
+cryptography
+slowapi
+pyjwt
+pydantic
+requests
+pytest
+httpx

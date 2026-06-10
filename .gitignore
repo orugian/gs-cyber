@@ -1,0 +1,18 @@
+# Ambiente
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Artefatos de runtime
+data/batches/
+backups/
+
+# Segredos / chaves (nunca versionar chaves privadas)
+keys/
+*.pem
+*.key
+
+# Sistema
+.DS_Store
+Thumbs.db
